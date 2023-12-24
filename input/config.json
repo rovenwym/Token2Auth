@@ -1,0 +1,15 @@
+{
+    "license": "",
+    "debug": false,
+    "threads": 5,
+    "delay": 0.15,
+    "max_retries": 3,
+    "client_id": "1182860814336675971",
+    "client_secret": "QidwwyGhBs4B2bRQJO6DkF312ptIGfqT",
+    "redirect_uri": "http://localhost:8080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9013 Chrome/117.0.0.0 Electron/22.3.2 Safari/537.36",
+    "proxyless": true,
+    "include_tokens": true,
+    "output": "output/auths.txt"
+
+}
